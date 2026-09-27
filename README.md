@@ -1,2 +1,2 @@
-# pyocyanin-data-augmentation
-Pyocyanin Data Augmentation: code for this paper.
+# pyocyanin-ai
+Model pyocyanin concentration from input voltammogram signals
